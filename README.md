@@ -1,7 +1,6 @@
 <h1 align="center">Hello World_</h1>
 
 ###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="30" />
@@ -34,9 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
 </div>
 
-###
+<br>
 
-<p align="center">Second Year Software Engineer | Full-Stack Developer | Automation And Bot Developer</p>
 
 ###
 
@@ -54,11 +52,18 @@
 </div>
 
 ###
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EbraSab&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=EbraSab&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EbraSab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=false" height="150" alt="languages graph"  />
+
+<br>
+<br>
+
+###
+
+<p align="center">Second Year Software Engineer | Full-Stack Developer | Automation And Bot Developer</p>
 </div>
 
 ###
